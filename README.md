@@ -1,5 +1,5 @@
 <img width="auto" src="https://github.com/IgorShimun/IgorShimun/blob/master/banner_developer-%20.jpg">
-### Igor Teixeira 👋
+<h1> Igor Teixeira 👋 </h1>
 <ul>
   <li>Software Tester</li>
   <li>Learning JavaScript</li> 
