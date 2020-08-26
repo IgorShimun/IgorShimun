@@ -1,9 +1,8 @@
-### Igor Teixeira, aqui 👋
+### Igor Teixeira 👋
 
-🔭 I’m currently working as a Tester
-🌱 I’m currently learning JS
-
-📫 How to reach me: 
-www.linkedin.com/in/igor-teixeira10
-igor.souza.teixeira18@gmail.com
+Software Tester </br>
+Learning JS </br>
+How to reach me: 
+LinkedIn: www.linkedin.com/in/igor-teixeira10
+e-mail: igor.souza.teixeira18@gmail.com
 
